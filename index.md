@@ -10,7 +10,7 @@ description: Portfolio of production ML/CV systems and applied AI research
 
 I build production computer vision systems and applied AI research, currently working at the intersection of vision transformers and language models for scientific data. Roughly 4.5 years of industry experience shipping CV pipelines and model APIs at Planet AI Space Group and Fregata Space, plus applied LLM evaluation work at d_model. I am completing a PhD in Astronomy at Universidad Nacional de Colombia, where I connect NASA/IBM's Surya spatiotemporal transformer to a language model for solar physics image understanding.
 
-[LinkedIn](https://www.linkedin.com/in/juanessao) · [GitHub](https://github.com/juagudeloo) · [Datos de Ciencia (YouTube)](youtube.com/@Datos.DeCiencia) · [Download CV](/Juan_Esteban_Agudelo_Ortiz_ML_DS_Engineer_CV.pdf)
+[LinkedIn](https://www.linkedin.com/in/juanessao) · [GitHub](https://github.com/juagudeloo) · [Datos de Ciencia (YouTube)](https://www.youtube.com/@Datos.DeCiencia) · [Download CV](/Juan_Esteban_Agudelo_Ortiz_ML_DS_Engineer_CV.pdf)
 
 ---
 
