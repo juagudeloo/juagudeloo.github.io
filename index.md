@@ -76,7 +76,7 @@ A study tool that generates flashcards from PDFs, handwritten notes, and referen
 
 ---
 
-## Datos de Ciencia LAT
+## Datos de Ciencia
 
 I run a Spanish-language YouTube channel translating data science and AI methods into business-relevant use cases, using scientific datasets as teaching material. [Watch on YouTube →](#)
 
